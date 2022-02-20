@@ -1,5 +1,5 @@
 <p> para a Criação da api foi utilizada a docker, então recomendamos que utilize para rodar o projeto</p>
-<p> para iniciar o projeto precisamos de 3 cogigos </p>
+<p> para iniciar o projeto precisamos de 3 comandos </p>
 <p>primeiro,no diretorio principal, o mesmo onde fica o arquivo "docker-compose.yml" abra o terminal e digite:<br>
 <code>$ docker-compose up</code>
 <p>logo após, abra a pasta Jn2TesteMoises onde ficam os aquivos do laravel</p>
